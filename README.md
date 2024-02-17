@@ -23,13 +23,7 @@ To get started with the project, follow these steps:
     git clone https://github.com/your-username/gemini-content-generator.git
     ```
 
-2. Navigate to the project directory:
-
-    ```bash
-    cd gemini-content-generator
-    ```
-
-3. Install the dependencies:
+2. Install the dependencies:
 
     ```bash
     npm install
